@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/dima/projects/example-code-2e/.venv/bin/python",
+  "jupyter.jupyterServerType": "local"
+}
