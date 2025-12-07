@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../fluentpy"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../testnotbk"
+		}
+	],
+	"settings": {}
+}
